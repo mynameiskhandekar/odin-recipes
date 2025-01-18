@@ -1,0 +1,26 @@
+/* *{
+    outline: 2px solid red;
+} */
+body{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    color: orange;
+    background-color: gray;
+}
+p{
+    color: rgb(124, 30, 212);
+    background-color: bisque;
+}
+form{
+    
+    border: 5px solid red;
+    border-radius: 10px;
+    width: 30%;
+    background-color: antiquewhite;
+}
+.border {
+    border: 5px dashed greenyellow;
+    border-radius: 20px;
+}
